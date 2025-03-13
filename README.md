@@ -33,7 +33,9 @@ or any other combination, JConverter provides a quick and accurate solution.
 
 ## Screenshots
 
-![App Screenshot](screenshots/app_screenshot.png)
+
+![001 screenshot](https://github.com/user-attachments/assets/c530fa8e-a1db-4186-a82d-689a65350a2a)
+![002 screenshot](https://github.com/user-attachments/assets/311832c1-6be3-4b81-a653-00b81f22ed0b)
 
 *App Screenshot*
 
